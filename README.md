@@ -34,4 +34,5 @@ To run this project locally, follow these steps:
 
 4.Run the application:
   npm start
+  
 5.Open your browser and go to http://localhost:3000 to view the app.
