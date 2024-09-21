@@ -11,12 +11,13 @@ You can view the live application [here](https://textanalysis-h1trb1wll-c-m-deva
 - **Unique Word Count**: Displays both case-sensitive and case-insensitive unique word counts.
 - **Character Count**: Counts characters excluding spaces and punctuation.
 - **Dynamic String Replacement**: Allows users to replace specific strings in real-time.
-- **Highlighting Replaced Words**: Highlights words that are replaced in the text.
+
 
 ## Bonus Features
 
 - **Real-Time Statistics Display**: Provides live feedback on word and character counts as you type.
 - **Input Clearing Functionality**: A button to clear the text input and reset the outputs.
+-  **Highlighting Replaced Words**: Highlights words that are replaced in the text.
 
 ## Installation
 
